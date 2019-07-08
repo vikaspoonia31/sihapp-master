@@ -1,4 +1,5 @@
 package luongvo.com.gmapdirectionfinder;
+import cz.martykan.forecastie.R;
 
 import android.Manifest;
 import android.app.Activity;
