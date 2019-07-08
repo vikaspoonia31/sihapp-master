@@ -17,7 +17,7 @@ public class Main2Activity extends AppCompatActivity {
         startActivity(intent);
     }
     public void gotoActivity3( View view){
-        Intent intent = new Intent(this, act1.class);
+        Intent intent = new Intent(this, MapsActivity.class);
         startActivity(intent);
     }
     @Override
