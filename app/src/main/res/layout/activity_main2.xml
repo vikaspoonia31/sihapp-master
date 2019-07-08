@@ -75,7 +75,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
-                android:text="Battery remaining"
+                android:onClick="goToActivity4"
+                android:text="New Graph"
                 android:textColor="@android:color/holo_green_dark" />
 
             <Button

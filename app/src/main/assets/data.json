@@ -1,0 +1,80 @@
+[
+  {
+    "Latitude": 0.000000,
+    "Longitude": 0.000000,
+    "TimeStamp": "2019-07-08 15:21:07",
+    "acc_x": 0.63,
+    "acc_y": 0.19,
+    "acc_z": 0.80,
+    "angle_x": 0.02,
+    "angle_y": 0.41,
+    "angle_z": -0.07,
+    "readingID": 538,
+    "velocity": 0.00
+  },
+  {
+    "Latitude": 0.000000,
+    "Longitude": 0.000000,
+    "TimeStamp": "2019-07-08 15:21:17",
+    "acc_x": 0.63,
+    "acc_y": 0.16,
+    "acc_z": 0.80,
+    "angle_x": 0.02,
+    "angle_y": 0.40,
+    "angle_z": -0.05,
+    "readingID": 539,
+    "velocity": 0.00
+  },
+  {
+    "Latitude": 0.000000,
+    "Longitude": 0.000000,
+    "TimeStamp": "2019-07-08 15:27:16",
+    "acc_x": 0.63,
+    "acc_y": 0.18,
+    "acc_z": 0.81,
+    "angle_x": -0.04,
+    "angle_y": 0.45,
+    "angle_z": 0.05,
+    "readingID": 540,
+    "velocity": 0.00
+  },
+  {
+    "Latitude": 0.000000,
+    "Longitude": 0.000000,
+    "TimeStamp": "2019-07-08 15:27:26",
+    "acc_x": 0.63,
+    "acc_y": 0.17,
+    "acc_z": 0.81,
+    "angle_x": 0.02,
+    "angle_y": 0.38,
+    "angle_z": -0.11,
+    "readingID": 541,
+    "velocity": 0.00
+  },
+  {
+    "Latitude": 0.000000,
+    "Longitude": 0.000000,
+    "TimeStamp": "2019-07-08 15:27:36",
+    "acc_x": 0.63,
+    "acc_y": 0.17,
+    "acc_z": 0.81,
+    "angle_x": 0.02,
+    "angle_y": 0.43,
+    "angle_z": -0.09,
+    "readingID": 542,
+    "velocity": 0.00
+  },
+  {
+    "Latitude": 0.000000,
+    "Longitude": 0.000000,
+    "TimeStamp": "2019-07-08 15:30:13",
+    "acc_x": 0.63,
+    "acc_y": 0.17,
+    "acc_z": 0.80,
+    "angle_x": 0.00,
+    "angle_y": 0.42,
+    "angle_z": -0.08,
+    "readingID": 543,
+    "velocity": 0.00
+  }
+]
